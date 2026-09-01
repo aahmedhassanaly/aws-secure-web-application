@@ -18,7 +18,7 @@ The project simulates a small company hosting a web application in AWS and focus
 
 ## Architecture
 
-![Uploading ChatGPT Image Sep 1, 2026, 05_52_08 PM.png…]()
+<img width="1536" height="1024" alt="ChatGPT Image Sep 1, 2026, 05_52_08 PM" src="https://github.com/user-attachments/assets/57815ee6-ac89-489a-a5ac-3352c26d3e22" />
 
 
 ### AWS Services
