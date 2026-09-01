@@ -17,8 +17,8 @@ The project simulates a small company hosting a web application in AWS and focus
 * Troubleshooting
 
 ## Architecture
+<img width="917" height="592" alt="image" src="https://github.com/user-attachments/assets/0a4498eb-e2d4-4b89-8f9e-8613772b03ea" />
 
-<img width="1536" height="1024" alt="ChatGPT Image Sep 1, 2026, 05_52_08 PM" src="https://github.com/user-attachments/assets/57815ee6-ac89-489a-a5ac-3352c26d3e22" />
 
 
 ### AWS Services
