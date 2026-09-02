@@ -20,8 +20,8 @@ and focuses on:
 - Troubleshooting
 
 ## Architecture
+<img width="1293" height="852" alt="image" src="https://github.com/user-attachments/assets/429d925b-ea7d-4b49-a793-918c2019ce49" />
 
-<img width="1170" height="776" alt="image" src="https://github.com/user-attachments/assets/ab32c10e-d4b9-410c-b383-e8f648c31207" />
 
 The architecture consists of:
 
