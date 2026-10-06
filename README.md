@@ -132,9 +132,19 @@ The ALB initially used `web-server-sg` instead of the dedicated `alb-sg`, preven
 
 The dedicated `alb-sg` was attached to the ALB. The ALB then became reachable and forwarded traffic to healthy EC2 targets.
 
-## Documentation
+## Tasks
 
-Detailed implementation notes are available in [documentation](documentation/).
+| # | Task | Status |
+|---:|---|:---:|
+| 001 | [IAM & MFA](documentation/001-iam-mfa.md) | ✅ |
+| 002 | [VPC Networking](documentation/002-vpc.md) | ✅ |
+| 003 | [Secure Web Server](documentation/003-secure-web-server.md) | ✅ |
+| 004 | [Aurora MySQL Database](documentation/004-RDS-database.md) | ✅ |
+| 005 | [Application Load Balancer](documentation/005-load-balancer.md) | ✅ |
+| 006 | [Monitoring & Backup](documentation/006-monitoring-backup.md) | ✅ |
+| 007 | [Final Security & Cost Review](documentation/007-final-security-cost-review.md) | ✅ |
+
+Detailed implementation notes: [Documentation](documentation/).
 
 ## Cost Control
 
